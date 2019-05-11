@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284915627370",
+    "firebase_url": "https://parkingdb-215c7.firebaseio.com",
+    "project_id": "parkingdb-215c7",
+    "storage_bucket": "parkingdb-215c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284915627370:android:a68437b12eaec193",
+        "android_client_info": {
+          "package_name": "com.project.busarin.psupark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284915627370-nmabn66cujbosr7ummr40l2hkr86tct9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.busarin.psupark",
+            "certificate_hash": "c0383434db6220648720486e709b6f233606cc40"
+          }
+        },
+        {
+          "client_id": "284915627370-r859prkhk4lod6v1oj484ub61a5gdhf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlRSnbkj-CR8-5yjq82C_H-2HwtCKyCgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284915627370-r859prkhk4lod6v1oj484ub61a5gdhf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
